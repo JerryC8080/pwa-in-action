@@ -1,0 +1,23 @@
+{
+  "name": "@jerryc/pwa-in-action",
+  "version": "1.0.0",
+  "description": "《PWA实战》系列",
+  "main": "index.js",
+  "scripts": {
+    "serve": "./node_modules/.bin/docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JerryC8080/pwa-in-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JerryC8080/pwa-in-action/issues"
+  },
+  "homepage": "https://github.com/JerryC8080/pwa-in-action#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}
